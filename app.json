@@ -1,14 +1,14 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
+  "name": "✦𝗤𝘂𝗲𝗲𝗻-𝗢𝘀𝗵𝗶𝗶✦",
+  "description": "Javascript WhatsApp bot made by ✦ 𝗾𝘂𝗲𝗲𝗻-𝗼𝘀𝗵𝗶 ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["𝗾𝘂𝗲𝗲𝗻 𝗼𝘀𝗵𝗶"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~gwY1GLQK#QNHXW5zwGtFXxaHuf_o-pAIStQAMW5ub-jXiwkx6kqQ",
       "required": true,
       "value": ""
     },  
